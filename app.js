@@ -25,7 +25,7 @@ app.use(cors());
 app.use(express.json());
 app.use('/character', characterController);
 
-const Port = process.env.PORT || 3000
+const Port = process.env.PORT || 3001
 app.listen(Port , ()=>{
-    console.log('expres===============>')
+    console.log('express')
 })
