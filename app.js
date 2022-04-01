@@ -24,11 +24,6 @@ app.use(cors());
 // app.use(urlencoded({extended:true}));
 app.use(express.json());
 app.use('/character', characterController);
-"scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon ./index.js",
-    "start": "node index.js"
-  },
 
 const Port = process.env.PORT || 3001
 app.listen(Port , ()=>{
