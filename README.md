@@ -5,7 +5,7 @@ A Wiki about the Characters of Triangle Strategy
 https://triangle-wiki-api.herokuapp.com/character -backend
 https://triangle-strategy-wiki.herokuapp.com/ - frontend
 https://github.com/aaronjled/Triangle-Strategy-Character-Wiki-Back-End
-aaronjled/triangle-strategy-character-wiki-front-end
+https://github.com/aaronjled/triangle-strategy-character-wiki-front-end
 
 Made using React, JavaScript, Express, MongoDB, HTML, CSS, GitHub and hosted on Heroku.
 
